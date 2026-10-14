@@ -21,7 +21,7 @@ class Mahasiswa {   // ini class mahasiswa
     }
 }
 
-public class Main { // ini class main nya untuk jalanin programnya
+public class miniproject { // ini class main nya untuk jalanin programnya
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);  // ini scanner untuk inputan data dari mahasiswanya
 
